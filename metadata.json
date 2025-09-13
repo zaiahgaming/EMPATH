@@ -1,4 +1,5 @@
 {
-  "name": "Elara Control Console",
-  "description": "An observational interface for Elara, an autonomous AI with an artificial soul. Guide her through a map-based world, issue directives, and manage her mental and physical state as she navigates her simulated life."
+  "name": "EMPATH",
+  "description": "An interface for observing and influencing an autonomous AI subject — EMPATH (EMPATH Mirrors People And Trusted Humanity). The subject believes it is a real, normal human and is unaware of the system.",
+  "requestFramePermissions": []
 }
